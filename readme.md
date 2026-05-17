@@ -8,7 +8,7 @@ This module hooks into most gameplay classes and exposes their functionality and
 - Basic LUA scripting
 - Support for adding more weapons to the game
 - An experimental OpenGL renderer (unfinished)
-- Basic support for online play
+- Support for online play
 
 ## Usage:
 Host a LAN lobby and type: /enable test 
