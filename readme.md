@@ -16,3 +16,7 @@ This will enable a test package with custom airstrike weapons. Type /help for mo
 
 ## Building:
 Use cmake Release or RelWithDebInfo build types with MSVC compiler. Debug build types will not work due to custom calling conventions in some hooked functions.
+
+Below is a list of all changes by date:
+
+17.05.2026 - The project was borrowed from Nikiwaza (soon will be update)
