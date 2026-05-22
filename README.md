@@ -1,6 +1,6 @@
-##List of created
+# List of created
 
-##Update 1.1
+# Update 1.1
 
 May 15, 2026 - A system for synchronizing custom weapons between players online has been created.
 
