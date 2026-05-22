@@ -16,3 +16,7 @@ This will enable a test package with custom airstrike weapons. Type /help for mo
 
 ## Building:
 Use cmake Release or RelWithDebInfo build types with MSVC compiler. Debug build types will not work due to custom calling conventions in some hooked functions.
+
+
+#Attention!
+Now updated version of WkJellyWorm Can be installed on: https://github.com/SnabShiferV2/wkJellyWorm
